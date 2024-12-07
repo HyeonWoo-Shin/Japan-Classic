@@ -8,7 +8,7 @@ PDF파일을 CSV파일로 변환 한 뒤
 Python을 통하여 불필요한 데이터를 삭제하는 전처리를 진행하고
 Seaborn과 Plotly로 시각화를 진행하였다.
 
-[Codes](bigdata_assignment.ipnynb)
+[Codes](bigdata_assignment.ipynb)
 
 ## DataSources
 
